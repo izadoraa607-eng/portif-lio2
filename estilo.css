@@ -1,0 +1,26 @@
+h1{color: rgb(25, 81, 88);
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 0px;
+padding: 0px;
+text-decoration: underline;
+}
+
+.titulo1{color: rgb(30, 228, 211);}
+
+
+
+p{color: hsl(337, 75%, 49%);
+font-size: 15px;
+text-decoration: justify;
+
+}
+  .texto1{color: #056161;}
+
+.texto2{color: blue;}
+
+.texto3{color: rgb(25, 103, 117);}
+#texto4{color: rgb(243, 23, 78);}
+
+body{background-color: rgb(132, 198, 218);}
